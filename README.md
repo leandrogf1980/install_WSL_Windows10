@@ -1,6 +1,5 @@
-# install_WSL_Windows10
-Procedimento para instalar o WSL no Windows 10.
-___
+# Como instalar WSL no Windows 10
+
 Execute o comando abaixo para verificar se tem o WSL instalado, se não retornar nenhuma informação, siga com a instalação do WSL.
 >__wsl --status__
 
